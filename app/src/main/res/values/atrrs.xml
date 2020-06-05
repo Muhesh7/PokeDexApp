@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="darkMode">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="cardbackgroundColor" format="color"/>
+        <attr name="titleTextColor" format="color"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="imagecolor" format="color"/>
+        <attr name="buttoncolor" format="color"/>
+        <attr name="Barcolor" format="color"/>
+        <attr name="selectcolor" format="color"/>
+    </declare-styleable>
+</resources>
